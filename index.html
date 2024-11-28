@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Bar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="banner">
+        <h1>KJP SMP PR1</h1>
+        <p>Cek no rekening</p>
+    </div>
+    <div class="search-container">
+        <input 
+            type="text" 
+            id="input-pencarian" 
+            placeholder="masukkan nis ..!" 
+        />
+        <button id="tombol-pencarian">Cari</button>
+    </div>
+    
+    <div id="hasil-pencarian">
+    </div>
+
+    <script>
+        // script.js
+        document.getElementById('tombol-pencarian').addEventListener('click', function () {
+        const kataKunci = document.getElementById('input-pencarian').value.trim();
+        const hasil = document.getElementById('hasil-pencarian');
+    
+        if (kataKunci) {
+            getData(kataKunci)
+        } else {
+            hasil.textContent = "Masukkan kata kunci pencarian.";
+        }
+
+    });
+
+     function getData(x){
+        fetch("csvjson.json")
+        .then(res => res.json())
+        .then(mydata => {
+            let temp=""
+            const hasilx= mydata.filter((item) => item.nis == x);
+            console.log(hasilx); 
+            if(hasilx.length >=1){
+                temp += `
+                        <p>Nama</p><p>:</p><p>${hasilx[0].nama}</p>               
+                        <p>Kelas</p><p>:</p><p>${hasilx[0].kls}</p>                   
+                        <p>Buku Tabungan</p><p>:</p><p>${hasilx[0].namaBuku}</p>                    
+                        <p>Rekening</p><p>:</p><p>${hasilx[0].rek}</p>
+                        <small style="margin-top: 20px 0;">*Jika ada kesalah nama atau no rekening silahkan hub walas</small>
+                  `
+                document.getElementById('hasil-pencarian').innerHTML = temp;    
+            }else{
+                document.getElementById('hasil-pencarian').textContent ="data tidak ditemukan";
+            }  
+            
+        })
+     }
+    </script>
+</body>
+</html>

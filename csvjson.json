@@ -1,0 +1,745 @@
+[
+  {
+    "no": 1,
+    "nis": 15487,
+    "nama": "Abiyya Salsabilah Ramadhan",
+    "kls": "7A",
+    "namaBuku": "SRI ANITA MEI YANTI QQ ABIYYA SALSABILAH",
+    "rek": "408.23.20399.5"
+  },
+  {
+    "no": 2,
+    "nis": 15488,
+    "nama": "Abiyyu Athaa Rizky Ramadhan",
+    "kls": "7A",
+    "namaBuku": "SRI ANITA MEI YANTI QQ ABIYYU ATHAA RIZK",
+    "rek": "408.23.20400.2"
+  },
+  {
+    "no": 3,
+    "nis": 15489,
+    "nama": "Adila Aprilia Septiadi",
+    "kls": "7A",
+    "namaBuku": "SEPTI WULANDARI QQ ADILA APRILIA SEPTIAD",
+    "rek": "408.23.20535.1"
+  },
+  {
+    "no": 4,
+    "nis": 15494,
+    "nama": "Bintang Andri Putra",
+    "kls": "7A",
+    "namaBuku": "JENI ROBINGATUN SUHARJO QQ BINTANG ANDRI",
+    "rek": "401.23.23276.9"
+  },
+  {
+    "no": 5,
+    "nis": 15495,
+    "nama": "Dhenisa Husna Kamila",
+    "kls": "7A",
+    "namaBuku": "SURATI QQ DHENISA HUSNA KAMILA",
+    "rek": "401.23.22299.2"
+  },
+  {
+    "no": 6,
+    "nis": 15496,
+    "nama": "Fadhil Alfatin Setyawan",
+    "kls": "7A",
+    "namaBuku": "PRIHATIN PUJI ASTUTI QQ FADHIL ALFATIN S",
+    "rek": "408.23.15623.7"
+  },
+  {
+    "no": 7,
+    "nis": 15497,
+    "nama": "Ghiyaz Hafiz Hermawan",
+    "kls": "7A",
+    "namaBuku": "JURIAH QQ GHIYAZ HAFIZ HERMAWAN",
+    "rek": "401.23.19349.6"
+  },
+  {
+    "no": 8,
+    "nis": 15499,
+    "nama": "Kamila Jihan Aurelia",
+    "kls": "7A",
+    "namaBuku": "SEPTIAWATI QQ KAMILA JIHAN AURELIA",
+    "rek": "401.23.19128.1"
+  },
+  {
+    "no": 9,
+    "nis": 15500,
+    "nama": "Khayla Syafira",
+    "kls": "7A",
+    "namaBuku": "DESI VERAWATI QQ KHAYLA SYAFIRA",
+    "rek": "401.23.13133.7"
+  },
+  {
+    "no": 10,
+    "nis": 15507,
+    "nama": "Muhamad Syabil Alsyad",
+    "kls": "7A",
+    "namaBuku": "ZULFAH QQ MUHAMAD SYABIL ALSYAD",
+    "rek": "430.23.04179.7"
+  },
+  {
+    "no": 11,
+    "nis": 15503,
+    "nama": "Muhammad Afwan",
+    "kls": "7A",
+    "namaBuku": "IROH KURNIASIH QQ MUHAMMAD AFWAN",
+    "rek": "401.23.18967.7"
+  },
+  {
+    "no": 12,
+    "nis": 15506,
+    "nama": "Muhammad Helmi Fahlevi",
+    "kls": "7A",
+    "namaBuku": "HIKMAWATI QQ MUHAMMAD HELMI FAHLEVI",
+    "rek": "401.23.19215.5"
+  },
+  {
+    "no": 13,
+    "nis": 15508,
+    "nama": "Nabella Novera Hadi",
+    "kls": "7A",
+    "namaBuku": "ATI SUSWATI QQ NABELLA NOVERA HADI",
+    "rek": "401.28.03425.6"
+  },
+  {
+    "no": 14,
+    "nis": 15510,
+    "nama": "Nizam Syabri",
+    "kls": "7A",
+    "namaBuku": "WATINAH QQ NIZAM SYABRI",
+    "rek": "401.23.19160.4"
+  },
+  {
+    "no": 15,
+    "nis": 15515,
+    "nama": "Rosyida Khoirina Rahmat",
+    "kls": "7A",
+    "namaBuku": "NOVIA SARI QQ ROSYIDA KHOIRINA RAHMAT",
+    "rek": "408.28.01171.7"
+  },
+  {
+    "no": 16,
+    "nis": 15517,
+    "nama": "Salwa Sabila",
+    "kls": "7A",
+    "namaBuku": "SUSI YANTI QQ SALWA SABILA",
+    "rek": "434.23.14112.3"
+  },
+  {
+    "no": 17,
+    "nis": 15518,
+    "nama": "Zahwa Maya Fatharony",
+    "kls": "7A",
+    "namaBuku": "SALIYAH QQ ZAHWA MAYA FATHARONY",
+    "rek": "401.28.03286.5"
+  },
+  {
+    "no": 18,
+    "nis": 15520,
+    "nama": "Abiyu Rifat Jamail",
+    "kls": "7B",
+    "namaBuku": "MUSTIKA ARYANI QQ ABIYU RIFAT JAMAIL",
+    "rek": "401.23.19088.8"
+  },
+  {
+    "no": 19,
+    "nis": 15522,
+    "nama": "Angga Wahyu Pratama",
+    "kls": "7B",
+    "namaBuku": "NANI NURHAYATI QQ ANGGA WAHYU PRATAMA",
+    "rek": "434.23.13146.2"
+  },
+  {
+    "no": 20,
+    "nis": 15524,
+    "nama": "Azam Maulana Ahsan",
+    "kls": "7B",
+    "namaBuku": "ENDANG MAULANA QQ AZAM MAULANA AHSAN",
+    "rek": "434.23.12523.3"
+  },
+  {
+    "no": 21,
+    "nis": 15527,
+    "nama": "Calvine Abimanyu Prakasiwi",
+    "kls": "7B",
+    "namaBuku": "LINDAWATI QQ CALVINE ABIMANYU PRAKASIWI",
+    "rek": "401.23.19347.0"
+  },
+  {
+    "no": 22,
+    "nis": 15528,
+    "nama": "Dinna Anggraini Nur Fauziyah",
+    "kls": "7B",
+    "namaBuku": "GUNTARI QQ DINNA ANGGRAINI NUR FAUZIYAH",
+    "rek": "401.23.19049.7"
+  },
+  {
+    "no": 23,
+    "nis": 15531,
+    "nama": "Gyna Khairunnisa Rahma Aliya",
+    "kls": "7B",
+    "namaBuku": "NURASIH QQ GYNA KHAIRUNNISA RAHMA ALIYA",
+    "rek": "401.23.18925.1"
+  },
+  {
+    "no": 24,
+    "nis": 15536,
+    "nama": "Mawaddah Kamila",
+    "kls": "7B",
+    "namaBuku": "MAHYUNI QQ MAWADDAH KAMILA",
+    "rek": "401.23.19276.7"
+  },
+  {
+    "no": 25,
+    "nis": 15540,
+    "nama": "Muhamad Faizal",
+    "kls": "7B",
+    "namaBuku": "AGUS SETIAWAN QQ MUHAMAD FAIZAL",
+    "rek": "408.28.00371.4"
+  },
+  {
+    "no": 26,
+    "nis": 15541,
+    "nama": "Muhammad Syauqi Fahrudin",
+    "kls": "7B",
+    "namaBuku": "",
+    "rek": ""
+  },
+  {
+    "no": 27,
+    "nis": 15543,
+    "nama": "Nazwa Anindita Syafitri Adrijanto",
+    "kls": "7B",
+    "namaBuku": "WARSINI QQ NAZWA ANINDITA SYAFITRI ADRIJ",
+    "rek": "401.23.19077.2"
+  },
+  {
+    "no": 28,
+    "nis": 15548,
+    "nama": "Sabirah Ulfah",
+    "kls": "7B",
+    "namaBuku": "TITIN SUPRIHATIN QQ SABIRAH ULFAH",
+    "rek": "408.23.16565.1"
+  },
+  {
+    "no": 29,
+    "nis": 15549,
+    "nama": "Satrya Arief Dermawansyah",
+    "kls": "7B",
+    "namaBuku": "NURLAELA QQ SATRYA ARIEF DERMAWANSYAH",
+    "rek": "408.23.15764.1"
+  },
+  {
+    "no": 30,
+    "nis": 15555,
+    "nama": "Ananda Shelo Rasendriya",
+    "kls": "7C",
+    "namaBuku": "INDA ALIVIANA QQ ANANDA SHELO RASENDRIYA",
+    "rek": "401.23.20893.1"
+  },
+  {
+    "no": 31,
+    "nis": 15558,
+    "nama": "As Syifa Putri Safitar",
+    "kls": "7C",
+    "namaBuku": "NOVIANTI QQ ASSYIFA PUTRI SAFITAR",
+    "rek": "401.23.19104.3"
+  },
+  {
+    "no": 32,
+    "nis": 15559,
+    "nama": "Azhura Septyani",
+    "kls": "7C",
+    "namaBuku": "LINAWATI QQ AZHURA SEPTYANI",
+    "rek": "434.23.13121.7"
+  },
+  {
+    "no": 33,
+    "nis": 15560,
+    "nama": "Calista Alifia Ardita",
+    "kls": "7C",
+    "namaBuku": "TITA HARTATI QQ CALISTA ALIFIA ARDITA",
+    "rek": "401.23.22286.1"
+  },
+  {
+    "no": 34,
+    "nis": 15561,
+    "nama": "Dina Afesita",
+    "kls": "7C",
+    "namaBuku": "ZULFAHMI QQ DINA AFESITA",
+    "rek": "435.23.18254.5"
+  },
+  {
+    "no": 35,
+    "nis": 15566,
+    "nama": "Indhira Tria Gunawan",
+    "kls": "7C",
+    "namaBuku": "GUNAWAN QQ INDHIRA TRIA GUNAWAN",
+    "rek": "401.23.18963.4"
+  },
+  {
+    "no": 36,
+    "nis": 15568,
+    "nama": "Keisha Aulia Putri",
+    "kls": "7C",
+    "namaBuku": "ASNAH FARISANTI QQ KEISHA AULIA PUTRI",
+    "rek": "408..28.00958.5"
+  },
+  {
+    "no": 37,
+    "nis": 15572,
+    "nama": "Muhammad Fanico",
+    "kls": "7C",
+    "namaBuku": "TATI SUPARTI QQ MUHAMMAD FANICO",
+    "rek": "408.23.21356.7"
+  },
+  {
+    "no": 38,
+    "nis": 15573,
+    "nama": "Muhammad Reza Rahmandani",
+    "kls": "7C",
+    "namaBuku": "MARDANI QQ MUHAMMAD REZA RAHMANDANI",
+    "rek": "408.23.22344.9"
+  },
+  {
+    "no": 39,
+    "nis": 15574,
+    "nama": "Nasya Rachman Salsabillah",
+    "kls": "7C",
+    "namaBuku": "",
+    "rek": ""
+  },
+  {
+    "no": 40,
+    "nis": 15577,
+    "nama": "Putri Amelia",
+    "kls": "7C",
+    "namaBuku": "AMRIL QQ PUTRI AMELIA",
+    "rek": "401.23.23545.8"
+  },
+  {
+    "no": 41,
+    "nis": 15579,
+    "nama": "Reza Putra Cahyono",
+    "kls": "7C",
+    "namaBuku": "SITI MASLIAH QQ REZA PUTRA CAHYONO",
+    "rek": "408.23.15904.0"
+  },
+  {
+    "no": 42,
+    "nis": 15580,
+    "nama": "Saskia Rosanti",
+    "kls": "7C",
+    "namaBuku": "ABDULLAH SAPII QQ SASKIA ROSANTI",
+    "rek": "408.23.15591.5"
+  },
+  {
+    "no": 43,
+    "nis": 15583,
+    "nama": "Virda Sri Astuti",
+    "kls": "7C",
+    "namaBuku": "SITI MAESAROH QQ VIRDA SRI ASTUTI",
+    "rek": "434.23.12471.7"
+  },
+  {
+    "no": 44,
+    "nis": 15585,
+    "nama": "Abdurrahim",
+    "kls": "7D",
+    "namaBuku": "KHAIRUNNISYAH QQ ABDURRAHIM",
+    "rek": "408.23.01418.0"
+  },
+  {
+    "no": 45,
+    "nis": 15586,
+    "nama": "Abdurrahman",
+    "kls": "7D",
+    "namaBuku": "KHAIRUNNISYAH QQ ABDURRAHMAN",
+    "rek": "434.23.01051.5"
+  },
+  {
+    "no": 46,
+    "nis": 15587,
+    "nama": "Andhika Wirawan Pratama",
+    "kls": "7D",
+    "namaBuku": "MINAH RS QQ ANDHIKA WIRAWAN PRATAMA",
+    "rek": "434.23.13021.1"
+  },
+  {
+    "no": 47,
+    "nis": 15593,
+    "nama": "Damar Kenzie Habibie Wijayanto",
+    "kls": "7D",
+    "namaBuku": "DEA RAHMATIKA QQ DAMAR KENZIE HABIBIE WI",
+    "rek": "401.23.20856.6"
+  },
+  {
+    "no": 48,
+    "nis": 15595,
+    "nama": "Fikri Triansyah",
+    "kls": "7D",
+    "namaBuku": "DARIYONO QQ FIKRI TRIANSYAH",
+    "rek": "408.28.02084.8"
+  },
+  {
+    "no": 49,
+    "nis": 15597,
+    "nama": "Iqlima Khoirunnisa",
+    "kls": "7D",
+    "namaBuku": "DESI SUSANTI QQ IQLIMA KHOIRUNNISA",
+    "rek": "401.23.19316.0"
+  },
+  {
+    "no": 50,
+    "nis": 15598,
+    "nama": "Jovan Bima Setiawan",
+    "kls": "7D",
+    "namaBuku": "MARIA ULFAH QQ JOVAN BIMA SETIAWAN",
+    "rek": "434.23.12307.9"
+  },
+  {
+    "no": 51,
+    "nis": 15599,
+    "nama": "Moya Zamzamah",
+    "kls": "7D",
+    "namaBuku": "LAHIPUL BADAR QQ MOYA ZAMZAMAH",
+    "rek": "401.28.03260.1"
+  },
+  {
+    "no": 52,
+    "nis": 15600,
+    "nama": "Muhamad Rifqi Ismail",
+    "kls": "7D",
+    "namaBuku": "ROSANI QQ MUHAMAD RIFQI ISMAIL",
+    "rek": "434.28.01012.4"
+  },
+  {
+    "no": 53,
+    "nis": 15604,
+    "nama": "Muhamad Zacky Ramadhan",
+    "kls": "7D",
+    "namaBuku": "TUTI HERAWATI QQ MUHAMAD ZACKY RAMADHAN",
+    "rek": "408.23.15886.8"
+  },
+  {
+    "no": 54,
+    "nis": 15601,
+    "nama": "Muhammad Fadi Rashad",
+    "kls": "7D",
+    "namaBuku": "SAHDIAH QQ MUHAMMAD FADI RASHAD",
+    "rek": "434.23.12196.3"
+  },
+  {
+    "no": 55,
+    "nis": 15605,
+    "nama": "Nazwa Novita Anggraeni",
+    "kls": "7D",
+    "namaBuku": "TASNAWI QQ NAZWA NOVITA ANGGRAENI",
+    "rek": "408.23.16556.2"
+  },
+  {
+    "no": 56,
+    "nis": 15606,
+    "nama": "Nurachmad Agustaf Ramadhanu",
+    "kls": "7D",
+    "namaBuku": "HANAH NURHASANAH QQ NURACHMAD AGUSTAF RAMA",
+    "rek": "434.23.13017.2"
+  },
+  {
+    "no": 57,
+    "nis": 15610,
+    "nama": "Ratih Arka Sari",
+    "kls": "7D",
+    "namaBuku": "SUHARNO QQ RATIH ARKA SARI",
+    "rek": "434.23.12486.5"
+  },
+  {
+    "no": 58,
+    "nis": 15611,
+    "nama": "Ridhotul Bisma Julyanto",
+    "kls": "7D",
+    "namaBuku": "IRDA JUITA QQ RIDHOTUL BISMA JULYANTO",
+    "rek": "408.23.15588.5"
+  },
+  {
+    "no": 59,
+    "nis": 15612,
+    "nama": "Sabrina Nurliana",
+    "kls": "7D",
+    "namaBuku": "OMAH QQ SABRINA NURLIANA",
+    "rek": "401.23.22280.1"
+  },
+  {
+    "no": 60,
+    "nis": 15613,
+    "nama": "Saskia Nurkaida",
+    "kls": "7D",
+    "namaBuku": "ZUWANTI QQ SASKIA NURKAIDA",
+    "rek": "408.23.15763.2"
+  },
+  {
+    "no": 61,
+    "nis": 15615,
+    "nama": "Winda Purwanti",
+    "kls": "7D",
+    "namaBuku": "ROSTIKA QQ WINDA PURWANTI",
+    "rek": "430.23.04134.7"
+  },
+  {
+    "no": 62,
+    "nis": 15616,
+    "nama": "Zamhari",
+    "kls": "7D",
+    "namaBuku": "SITI RODHIYAH QQ ZAMHARI",
+    "rek": "401.23.19063.2"
+  },
+  {
+    "no": 63,
+    "nis": 15618,
+    "nama": "Agna Aulia Husna",
+    "kls": "7E",
+    "namaBuku": "MUNAWAROH QQ AGNA AULIA HUSNA",
+    "rek": "408.23.15831.1"
+  },
+  {
+    "no": 64,
+    "nis": 15619,
+    "nama": "Ahmad Hafiz Al Hasyimi",
+    "kls": "7E",
+    "namaBuku": "TUTI AMALIYAH QQ AHMAD HAFIZ AL HASYIMI",
+    "rek": "401.23.19092.6"
+  },
+  {
+    "no": 65,
+    "nis": 15620,
+    "nama": "Andi Nurul Hikmah Ramadhani",
+    "kls": "7E",
+    "namaBuku": "DWI RINATAMA QQ ANDI NURUL HIKMAH RAMADHANI",
+    "rek": "408.28.01513.5"
+  },
+  {
+    "no": 66,
+    "nis": 15622,
+    "nama": "Anisa Rahmania",
+    "kls": "7E",
+    "namaBuku": "NURHAYATI QQ ANISA RAHMANIA",
+    "rek": "401.23.19244.9"
+  },
+  {
+    "no": 67,
+    "nis": 15624,
+    "nama": "Arvino Ezhi Purnomo",
+    "kls": "7E",
+    "namaBuku": "ANIIS NURHAYATI QQ ARVINO EZHI PURNOMO",
+    "rek": "401.23.18920.1"
+  },
+  {
+    "no": 68,
+    "nis": 15626,
+    "nama": "Azizah Muthi'Ah Nida",
+    "kls": "7E",
+    "namaBuku": "SITI QQ AZIZAH MUTHIAH NIDA",
+    "rek": "401.23.20850.7"
+  },
+  {
+    "no": 69,
+    "nis": 15629,
+    "nama": "Eferdy Syahputra Manalu",
+    "kls": "7E",
+    "namaBuku": "",
+    "rek": ""
+  },
+  {
+    "no": 70,
+    "nis": 15631,
+    "nama": "Fatia Isnaini Yulman",
+    "kls": "7E",
+    "namaBuku": "YULYANI QQ FATIA ISNAINI YULMAN",
+    "rek": "433.23.08506.3"
+  },
+  {
+    "no": 71,
+    "nis": 15633,
+    "nama": "Jihan Fauziah Ariasto",
+    "kls": "7E",
+    "namaBuku": "RIANA QQ JIHAN FAUZIAH ARIASTO",
+    "rek": "401.23.19274.1"
+  },
+  {
+    "no": 72,
+    "nis": 15635,
+    "nama": "Muhamad Irfan Maulana",
+    "kls": "7E",
+    "namaBuku": "SINTIYAH LUSINNA QQ MUHAMAD IRFAN MAULANA",
+    "rek": "401.23.18930.8"
+  },
+  {
+    "no": 73,
+    "nis": 15636,
+    "nama": "Muhammad Cesar Pratama",
+    "kls": "7E",
+    "namaBuku": "MUHAMMAD CESAR PRATAMA",
+    "rek": "408.28.07576.6"
+  },
+  {
+    "no": 74,
+    "nis": 15638,
+    "nama": "Muhsin Tri Aji",
+    "kls": "7E",
+    "namaBuku": "YENI ASNUNIK QQ MUHSIN TRI AJI",
+    "rek": "401.23.19057.8"
+  },
+  {
+    "no": 75,
+    "nis": 15640,
+    "nama": "Nira Dinda Triana",
+    "kls": "7E",
+    "namaBuku": "SRI WAHYUNI QQ NIRA DINDA TRIANA",
+    "rek": "401.23.20873.6"
+  },
+  {
+    "no": 76,
+    "nis": 15643,
+    "nama": "Raysa Azzahra",
+    "kls": "7E",
+    "namaBuku": "",
+    "rek": ""
+  },
+  {
+    "no": 77,
+    "nis": 15656,
+    "nama": "Elisza Safira",
+    "kls": "7F",
+    "namaBuku": "NASRULLAH QQ ELISZA SAFIRA",
+    "rek": "408.23.15956.2"
+  },
+  {
+    "no": 78,
+    "nis": 15657,
+    "nama": "Ghani Akhdan Prayogo",
+    "kls": "7F",
+    "namaBuku": "TYAS AYUNINGSIH QQ GHANI AKHDAN PRAYOGO",
+    "rek": "401.23.23483.4"
+  },
+  {
+    "no": 79,
+    "nis": 15659,
+    "nama": "Hizam Muwafi Nawaf",
+    "kls": "7F",
+    "namaBuku": "WALUYO QQ HIZAM MUWAFI NAWAF",
+    "rek": "401.23.19361.5"
+  },
+  {
+    "no": 80,
+    "nis": 15663,
+    "nama": "Muhamad Iqrom Ramadhan",
+    "kls": "7F",
+    "namaBuku": "LILIS SURYANI QQ MUHAMAD IQROM RAMADHAN",
+    "rek": "408.23.15579.6"
+  },
+  {
+    "no": 81,
+    "nis": 15665,
+    "nama": "Muhammad Dava Choirul Bashori",
+    "kls": "7F",
+    "namaBuku": "SISWATI QQ MUHAMMAD DAVA CHOIRUL BASHORI",
+    "rek": "401.23.19056.0"
+  },
+  {
+    "no": 82,
+    "nis": 15666,
+    "nama": "Muhammad Fikri Yansyah",
+    "kls": "7F",
+    "namaBuku": "SITI MARYAM QQ MUHAMMAD FIKRI YANSYAH",
+    "rek": "408.23.15961.9"
+  },
+  {
+    "no": 83,
+    "nis": 15667,
+    "nama": "Muhammad Hanif Ashshiddiq",
+    "kls": "7F",
+    "namaBuku": "ROBIHAH QQ MUHAMMAD HANIF ASHSHIDDIQ",
+    "rek": "434.28.01136.8"
+  },
+  {
+    "no": 84,
+    "nis": 15672,
+    "nama": "Najla Atiqah",
+    "kls": "7F",
+    "namaBuku": "ERVINA DARSONO QQ NAJLA ATIQAH",
+    "rek": "408.28.00934.8"
+  },
+  {
+    "no": 85,
+    "nis": 15673,
+    "nama": "Nirvana Aliya Putri",
+    "kls": "7F",
+    "namaBuku": "BUNYAMIN QQ NIRVANA ALIYA PUTRI",
+    "rek": "401.28.03033.1"
+  },
+  {
+    "no": 86,
+    "nis": 15674,
+    "nama": "Raeesa Latifah Putri",
+    "kls": "7F",
+    "namaBuku": "RAEESA LATIFAH PUTRI",
+    "rek": "406.28.02026.4"
+  },
+  {
+    "no": 87,
+    "nis": 15675,
+    "nama": "Rava Dinata Ilham",
+    "kls": "7F",
+    "namaBuku": "AISYAH QQ RAVA DINATA ILHAM",
+    "rek": "434.23.12507.1"
+  },
+  {
+    "no": 88,
+    "nis": 15676,
+    "nama": "Reisya Oktaviani",
+    "kls": "7F",
+    "namaBuku": "SITI MARIA QQ REISYA OKTAVIANI",
+    "rek": "408.23.15974.1"
+  },
+  {
+    "no": 89,
+    "nis": 15677,
+    "nama": "Reza Ahmad Putrawan",
+    "kls": "7F",
+    "namaBuku": "KARTINI QQ REZA AHMAD PUTRAWAN",
+    "rek": "408.23.18834.1"
+  },
+  {
+    "no": 90,
+    "nis": 15678,
+    "nama": "Ryo Hanaffi Khairunansyah",
+    "kls": "7F",
+    "namaBuku": "LESTARI QQ RYO HANAFFI KHAIRUNANSYAH",
+    "rek": "401.23.19168.0"
+  },
+  {
+    "no": 91,
+    "nis": 15679,
+    "nama": "Safa Qolbi Aini",
+    "kls": "7F",
+    "namaBuku": "",
+    "rek": ""
+  },
+  {
+    "no": 92,
+    "nis": 15680,
+    "nama": "Yolanda Nor Asyfa",
+    "kls": "7F",
+    "namaBuku": "JUMINI QQ YOLANDA NOR ASYFA",
+    "rek": "401.23.19062.4"
+  },
+  {
+    "no": 93,
+    "nis": 15681,
+    "nama": "Zahra Jelita Safira",
+    "kls": "7F",
+    "namaBuku": "FIYANA QQ ZAHRA JELITA SAFIRA",
+    "rek": "408.23.15922.8"
+  }]
