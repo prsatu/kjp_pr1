@@ -65,15 +65,14 @@ body {
     margin-top: 40px;
     font-size: 18px;
     color: #333;
-    display: grid;
-    gap:12px;
-    grid-template-columns: max-content min-content 1fr;
-    & p{
-        margin: 0;
-        padding: 0;
-    }
-    & small{
-        grid-column:1/-1;
-    }
-   
+}
+#hasil-pencarian li{
+    list-style: none;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+#hasil-pencarian li span{
+    margin-top: 6px;
 }

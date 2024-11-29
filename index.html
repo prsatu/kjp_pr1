@@ -45,12 +45,13 @@
             const hasilx= mydata.filter((item) => item.nis == x);
             console.log(hasilx); 
             if(hasilx.length >=1){
-                temp += `
-                        <p>Nama</p><p>:</p><p>${hasilx[0].nama}</p>               
-                        <p>Kelas</p><p>:</p><p>${hasilx[0].kls}</p>                   
-                        <p>Buku Tabungan</p><p>:</p><p>${hasilx[0].namaBuku}</p>                    
-                        <p>Rekening</p><p>:</p><p>${hasilx[0].rek}</p>
-                        <small style="margin-top: 20px 0;">*Jika ada kesalah nama atau no rekening silahkan hub walas</small>
+                temp += `<ul>
+                        <li>Nama : <span>${hasilx[0].nama}</span></li>               
+                        <li>Kelas :<span>${hasilx[0].kls}</span></li>                   
+                        <li>Buku Tabungan : <span>${hasilx[0].namaBuku}</span></li>                    
+                        <li>Rekening : <span>${hasilx[0].rek}</span></li>
+                        </ul>
+                        <small style="margin-top: 20px 0;">*Jika ada kesalahan nama buku tabungan atau no rekening silahkan hub walas</small>
                   `
                 document.getElementById('hasil-pencarian').innerHTML = temp;    
             }else{
